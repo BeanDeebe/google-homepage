@@ -1,0 +1,1 @@
+-- This is my first Odin Project. The assignment is to recreate the Google Homepage using HTML and CSS styles. --!
